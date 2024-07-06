@@ -1,0 +1,12 @@
+Breadboard
+Jumper wires(male-male/male-female)
+RFID Module and RFID cards/tags
+16x2 i2c lcd
+ESP32
+4x4 keypad
+Buzzer
+12v Solenoid Lock & 5V Relay module or servo motor
+220ohm x2
+LED x2
+7808 Voltage regulator
+12V power supply
